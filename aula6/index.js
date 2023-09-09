@@ -1,9 +1,9 @@
 // + - * /
-const nome = 'Luiz Otávio';
-const sobrenome = 'Miranda';
-const idade = 30;
-const peso = 84;
-const alturaEmM = 1.80;
+const nome = 'Patrick';
+const sobrenome = 'Alquimim';
+const idade = 19;
+const peso = 60;
+const alturaEmM = 1.70;
 let imc; //peso (altura * altura)
 let anoNascimento; 
 
